@@ -5,3 +5,11 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Terra Cotto Cat](https://octodex.github.com/images/Terracottocat_Single.png)
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
